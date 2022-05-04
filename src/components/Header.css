@@ -1,0 +1,30 @@
+.headerContainer{
+    background-color:#424B54;
+    padding:40px;
+    margin-bottom:30px;
+}
+.contactList{
+    display: flex;
+justify-content: space-evenly;
+
+}
+ul{
+    list-style: none;
+
+}
+a {
+    color:white;
+    text-decoration: none;
+    
+}
+.Sign_in{
+    display: flex;
+    justify-content: flex-end;
+    width: auto;
+
+}
+.sign_element{
+    padding:0 15px 5px;
+    background-color:#E2B4BD;
+    border-radius:20px;
+}

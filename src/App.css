@@ -1,0 +1,19 @@
+.App{
+  background-color: #9B6A6C;
+  max-width: 1800px;
+  margin: auto;
+}
+.calculator{
+  color:white; 
+  margin: 0 auto;
+text-align: center;
+width: fit-content;
+text-shadow: 2px 4px 4px rgba(34, 18, 27, 0.6);
+
+
+}
+.line{
+  display: flex;
+  margin-top: 40px;
+  justify-content: space-around;
+}
