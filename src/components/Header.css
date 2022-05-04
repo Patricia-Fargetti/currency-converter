@@ -3,10 +3,10 @@
     padding:40px;
     margin-bottom:30px;
 }
-.contactList{
+.menu_List{
     display: flex;
 justify-content: space-evenly;
-
+flex-wrap: wrap;
 }
 ul{
     list-style: none;
@@ -16,6 +16,9 @@ a {
     color:white;
     text-decoration: none;
     
+}
+a:hover{
+    text-decoration: underline;
 }
 .Sign_in{
     display: flex;
@@ -27,4 +30,7 @@ a {
     padding:0 15px 5px;
     background-color:#E2B4BD;
     border-radius:20px;
+}
+.log_element{
+    margin-left:15px;
 }

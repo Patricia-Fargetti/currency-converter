@@ -8,7 +8,7 @@ return(
      
       <ul className={styles.contactList}>
       <h4>Company Information</h4>
-        <li><a href="mailto:email@example.com">© 1995-2022 XE.com Inc.</a></li>
+        <li><a href="mailto:email@example.com">© Conversor Currency Calculator.</a></li>
     
       </ul>
     </div>
